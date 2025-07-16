@@ -30,5 +30,5 @@ To build and evaluate a classification model that predicts whether a customer is
 ## 📌 How to Run
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/customer-churn-prediction.git
+   git clone https://github.com/yukta31/customer-churn-prediction.git
    cd customer-churn-prediction
